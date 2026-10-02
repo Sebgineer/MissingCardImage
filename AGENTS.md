@@ -66,6 +66,9 @@ For hvert åbent kort, prøv kilderne i denne rækkefølge. Brug den første, de
    | `sm3.5` | `sm35` | `18` og `18_hires` |
    | `2016xy` | `mcd16` | `5` og `5_hires` |
    | `2021swsh` | `mcd21` | `18` og `18_hires` |
+   | `tk-ex-latia` | `tk1a` | `5` og `5_hires`. Sættet hedder EX Trainer Kit Latias, og scanet er Numel 5/10 |
+
+   `tk2a` er EX Trainer Kit 2 Plusle. Det må ikke bruges til `tk-dp-m`.
 
    Når `local_id` er et tal med foranstillede nuller, bruger API’et tallet uden nuller. `svp/085` er 404. `svp/85` og `svp/85_hires` er 200. `svp/203` virker uændret. Output-stien er stadig `svp/085/`.
 

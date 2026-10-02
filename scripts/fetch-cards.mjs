@@ -27,6 +27,7 @@ const apiAliases = {
   'sm3.5': 'sm35',
   '2016xy': 'mcd16',
   '2021swsh': 'mcd21',
+  'tk-ex-latia': 'tk1a',
 }
 
 const rarities = ['R', 'C', 'U', 'RR', 'SR', 'HR']
