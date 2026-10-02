@@ -2,65 +2,6 @@
 
 Kort uden gyldigt billede. `resolved_at` er ikke sat.
 
-## 2015xy-12
-
-Skitty (`2015xy/12`)
-
-- https://images.pokemontcg.io/2015xy/12.png — 404 image/png
-- https://images.pokemontcg.io/2015xy/12_hires.png — 404 image/png
-- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/MCD15/MCD15_EN_12.png — 403 application/xml
-- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/MCD15/MCD15_EN_012.png — 403 application/xml
-- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/2015XY/2015XY_EN_12.png — 403 application/xml
-- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/2015XY/2015XY_EN_012.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_R_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_R_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_C_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_C_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_U_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_U_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_RR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_RR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_SR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_SR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_HR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_12_HR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_R_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_R_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_C_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_C_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_U_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_U_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_RR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_RR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_SR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_SR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_HR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD15/MCD15_012_HR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_R_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_R_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_C_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_C_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_U_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_U_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_RR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_RR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_SR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_SR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_HR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_12_HR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_R_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_R_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_C_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_C_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_U_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_U_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_RR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_RR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_SR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_SR_EN_LG.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_HR_EN.png — 403 application/xml
-- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_HR_EN_LG.png — 403 application/xml
-
 ## 2018sm-2
 
 Psyduck (`2018sm/2`)
