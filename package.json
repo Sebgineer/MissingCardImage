@@ -1,0 +1,8 @@
+{
+  "name": "missing-card-image",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "sharp": "^0.34.4"
+  }
+}

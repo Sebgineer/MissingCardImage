@@ -57,6 +57,18 @@ For hvert åbent kort, prøv kilderne i denne rækkefølge. Brug den første, de
 
    Alle 120 Trainer Gallery-kort findes, når `set_id` er `swsh9tg`, `swsh10tg`, `swsh11tg` eller `swsh12tg`. Brug galleri-id’et. `swsh10/TG01` giver 404, mens `swsh10tg/TG01` giver 200. `mep/101` giver 404. Antag ikke, at nye promoer ligger her. Hvis kun den lave fil findes, må den bruges som kilde til begge webp-filer, og `high.webp` laves i den opløsning, kilden har.
 
+   Disse alias er testet. Tabellens `set_id` giver 404, og API-id’et giver 200 med `image/png` over 20 KB. Brug API-id’et. Filstien i repoet bruger stadig tabellens `set_id` og `local_id`.
+
+   | `set_id` | API-id | prøvet |
+   | --- | --- | --- |
+   | `swsh12.5gg` | `swsh12pt5gg` | `GG01` og `GG01_hires` |
+   | `sm7.5` | `sm75` | `22` og `22_hires` |
+   | `sm3.5` | `sm35` | `18` og `18_hires` |
+   | `2016xy` | `mcd16` | `5` og `5_hires` |
+   | `2021swsh` | `mcd21` | `18` og `18_hires` |
+
+   Når `local_id` er et tal med foranstillede nuller, bruger API’et tallet uden nuller. `svp/085` er 404. `svp/85` og `svp/85_hires` er 200. `svp/203` virker uændret. Output-stien er stadig `svp/085/`.
+
 2. **Pokémons eget site**
 
    `https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/<SÆT>/<SÆT>_EN_<NUMMER>.png`
@@ -78,5 +90,7 @@ For hvert åbent kort, prøv kilderne i denne rækkefølge. Brug den første, de
    | `swsh12tg` | `SIT` |
 
    403 fra denne host betyder ofte, at objektet ikke findes. Flareon `BRS_TG01` manglede, mens `BRS_TG23` og `BRS_TG30` fandtes. Prøv også suffiksene `C`, `U`, `RR`, `SR` og `HR`, hvis `_R_` fejler. Findes billedet på kilde 1, så stop. Limitless er kun til kort, de første kilder ikke har.
+
+   Testet efterfølgende: `mee` som `MEE`, og `MEE_001_R_EN` er 200. `MEP_009_R_EN` og `MEP_064_R_EN` er 200. `MEP_106` er 403 for `R`, `C`, `U`, `RR`, `SR` og `HR` på Limitless, og `MEP_EN_106` er 403 på pokemon.com. `2015xy` som `MCD15`: både `MCD15_12_R_EN` og `MCD15_EN_012` er 403, og `mcd15/1` samt `mcd15/12` er 404 på Pokémon TCG API. `svp` som `SVP`: `SVP_203_R_EN` er 200, `SVP_085_R_EN` er 403. API-aliaset ovenfor dækker `svp/085`.
 
 Hent scriptet `scripts/fetch-cards.mjs` følger denne rækkefølge. Kør det kun efter denne fil er committet.
