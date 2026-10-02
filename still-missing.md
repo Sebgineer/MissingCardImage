@@ -61,6 +61,124 @@ Skitty (`2015xy/12`)
 - https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_HR_EN.png — 403 application/xml
 - https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2015XY/2015XY_012_HR_EN_LG.png — 403 application/xml
 
+## 2018sm-2
+
+Psyduck (`2018sm/2`)
+
+- https://images.pokemontcg.io/2018sm/2.png — 404 image/png
+- https://images.pokemontcg.io/2018sm/2_hires.png — 404 image/png
+- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/MCD18/MCD18_EN_2.png — 403 application/xml
+- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/MCD18/MCD18_EN_002.png — 403 application/xml
+- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/2018SM/2018SM_EN_2.png — 403 application/xml
+- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/2018SM/2018SM_EN_002.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_R_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_R_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_C_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_C_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_U_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_U_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_RR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_RR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_SR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_SR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_HR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_2_HR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_R_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_R_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_C_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_C_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_U_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_U_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_RR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_RR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_SR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_SR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_HR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_002_HR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_R_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_R_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_C_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_C_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_U_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_U_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_RR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_RR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_SR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_SR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_HR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_2_HR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_R_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_R_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_C_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_C_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_U_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_U_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_RR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_RR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_SR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_SR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_HR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_002_HR_EN_LG.png — 403 application/xml
+
+## 2018sm-5
+
+Slowpoke (`2018sm/5`)
+
+- https://images.pokemontcg.io/2018sm/5.png — 404 image/png
+- https://images.pokemontcg.io/2018sm/5_hires.png — 404 image/png
+- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/MCD18/MCD18_EN_5.png — 403 application/xml
+- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/MCD18/MCD18_EN_005.png — 403 application/xml
+- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/2018SM/2018SM_EN_5.png — 403 application/xml
+- https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/2018SM/2018SM_EN_005.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_R_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_R_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_C_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_C_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_U_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_U_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_RR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_RR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_SR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_SR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_HR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_5_HR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_R_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_R_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_C_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_C_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_U_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_U_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_RR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_RR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_SR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_SR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_HR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MCD18/MCD18_005_HR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_R_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_R_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_C_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_C_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_U_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_U_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_RR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_RR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_SR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_SR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_HR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_5_HR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_R_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_R_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_C_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_C_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_U_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_U_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_RR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_RR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_SR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_SR_EN_LG.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_HR_EN.png — 403 application/xml
+- https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/2018SM/2018SM_005_HR_EN_LG.png — 403 application/xml
+
 ## mep-093
 
 Pikachu (`mep/093`)
