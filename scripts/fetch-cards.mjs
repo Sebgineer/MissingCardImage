@@ -17,6 +17,8 @@ const setCodes = {
   swsh12tg: ['SIT'],
   mep: ['MEP'],
   '2015xy': ['MCD15'],
+  '2018sm': ['MCD18'],
+  hgssp: ['HSP'],
   mee: ['MEE'],
   svp: ['SVP'],
 }
